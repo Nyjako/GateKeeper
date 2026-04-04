@@ -1,0 +1,17 @@
+{
+  "name": "gate-keeper",
+  "version": "1.0.0",
+  "description": "Discord bot that controls entry and remove users after they leave vc",
+  "license": "MIT",
+  "author": "Kacper Tucholski",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.2",
+    "dotenv": "^17.4.0"
+  }
+}
