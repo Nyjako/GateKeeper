@@ -2,8 +2,6 @@
 
 Gate Keeper is a Discord bot that helps manage invited users in a server. It automatically gives a role when someone joins, starts a grace timer, and kicks users who do not join voice chat within the allowed time.
 
-The bot was built for servers where people get invited for games and those people sometimes stay much longer than expected. Instead of removing users manually one by one, Gate Keeper handles it automatically.
-
 ## Features
 
 - Automatically assigns a role when a user joins
